@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissCat2011", "MissCat2011\MissCat2011.csproj", "{E6044AE8-7C03-4707-AF3B-B469194C804C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestRoad", "ForestRoad\ForestRoad.csproj", "{1815F968-E603-45D4-91D3-BDE38137D70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDigitsCount", "BinaryDigitsCount\BinaryDigitsCount.csproj", "{AB4F8EB5-82A8-427D-B593-3612FA0FDD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateSystem", "CoordinateSystem\CoordinateSystem.csproj", "{F47846E0-71E2-44B2-914D-1E658DEF7012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetSums", "SubsetSums\SubsetSums.csproj", "{01B1A926-C3A4-45B0-A215-5485C9D2EA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6044AE8-7C03-4707-AF3B-B469194C804C}.Debug|x86.ActiveCfg = Debug|x86
+		{E6044AE8-7C03-4707-AF3B-B469194C804C}.Debug|x86.Build.0 = Debug|x86
+		{E6044AE8-7C03-4707-AF3B-B469194C804C}.Release|x86.ActiveCfg = Release|x86
+		{E6044AE8-7C03-4707-AF3B-B469194C804C}.Release|x86.Build.0 = Release|x86
+		{1815F968-E603-45D4-91D3-BDE38137D70D}.Debug|x86.ActiveCfg = Debug|x86
+		{1815F968-E603-45D4-91D3-BDE38137D70D}.Debug|x86.Build.0 = Debug|x86
+		{1815F968-E603-45D4-91D3-BDE38137D70D}.Release|x86.ActiveCfg = Release|x86
+		{1815F968-E603-45D4-91D3-BDE38137D70D}.Release|x86.Build.0 = Release|x86
+		{AB4F8EB5-82A8-427D-B593-3612FA0FDD77}.Debug|x86.ActiveCfg = Debug|x86
+		{AB4F8EB5-82A8-427D-B593-3612FA0FDD77}.Debug|x86.Build.0 = Debug|x86
+		{AB4F8EB5-82A8-427D-B593-3612FA0FDD77}.Release|x86.ActiveCfg = Release|x86
+		{AB4F8EB5-82A8-427D-B593-3612FA0FDD77}.Release|x86.Build.0 = Release|x86
+		{F47846E0-71E2-44B2-914D-1E658DEF7012}.Debug|x86.ActiveCfg = Debug|x86
+		{F47846E0-71E2-44B2-914D-1E658DEF7012}.Debug|x86.Build.0 = Debug|x86
+		{F47846E0-71E2-44B2-914D-1E658DEF7012}.Release|x86.ActiveCfg = Release|x86
+		{F47846E0-71E2-44B2-914D-1E658DEF7012}.Release|x86.Build.0 = Release|x86
+		{01B1A926-C3A4-45B0-A215-5485C9D2EA06}.Debug|x86.ActiveCfg = Debug|x86
+		{01B1A926-C3A4-45B0-A215-5485C9D2EA06}.Debug|x86.Build.0 = Debug|x86
+		{01B1A926-C3A4-45B0-A215-5485C9D2EA06}.Release|x86.ActiveCfg = Release|x86
+		{01B1A926-C3A4-45B0-A215-5485C9D2EA06}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
